@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "Patrones de responsive web disea",
+			"path": "..\\..\\..\\Patrones de responsive web disea"
+		},
+		{
+			"path": "..\\..\\..\\..\\Curso de paginas WEB\\CSS3"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\pagina web abogados"
+		},
+		{
+			"path": "..\\..\\..\\Codigo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Curso de pagina Web (Udemy)"
+	}
+}
